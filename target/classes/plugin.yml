@@ -1,0 +1,5 @@
+name: ArenaKC
+version: '1.0-SNAPSHOT'
+main: org.battleplugins.arenaKC.ArenaKC
+api-version: '1.20.4'
+authors: [ Saratoga ]
